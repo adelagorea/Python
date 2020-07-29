@@ -1,0 +1,32 @@
+1. a = 12
+2. "In padurea cu alune aveau casa" +"2" + "pitici"
+3. a = 11
+4. a = int(input('a += 1')) // input lucreaza cu siruri de cacactere, putem face conversia
+5. // nu m-am descurcat 
+6.  a[int(int('3' * 2) // 11)] va afisa 'd'
+	a = ['a', 'b', 'c', 'd']    
+		>>> a.insert(0, 'g')
+		>>> print(a)
+	['g', 'a', 'b', 'c', 'd']
+		>>> a.extend('q')
+	['g', 'a', 'b', 'q']
+                >>> del a[-2:] 
+	>>> a = ['a', 'b', 'c', 'd']
+	>>> a.sort(reverse=True)
+	>>> print(a)     
+	['d', 'c', 'b', 'a']
+a = ["a", "b", "c", "d", "e"]
+b = list(a[2:])
+print(b)
+
+7. inventar =	{
+  "scaune": 23,
+  "mese": 48,
+  "dulapuri": 19,
+  "cuer":21
+}
+
+sum1 = sum(inventar[item] for item in inventar)
+print(sum1)
+
+sum(inventar(values()) -  nu sa primit
