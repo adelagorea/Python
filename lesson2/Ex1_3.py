@@ -10,7 +10,5 @@
 # a = 10
 # print(a + 1)
 # Va afisa valoarea 12
-#Ex.4
-a = input()
-a += 1
+
 
