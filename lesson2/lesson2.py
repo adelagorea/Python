@@ -1,2 +1,4 @@
-print('salut')
-print('Ma numesc Adela')
+a = 10
+a += len(str(a))
+a = str(a)
+print(a)
