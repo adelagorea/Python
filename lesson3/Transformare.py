@@ -1,0 +1,5 @@
+print("Introduceti temperatura in grade C")
+c = int(input())
+print("Temperatura este: ") 
+temp = (((9/5)*c)+32)
+print(temp)
